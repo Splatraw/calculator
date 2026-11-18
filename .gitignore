@@ -3,3 +3,5 @@ __pycache__/
 .env
 keep-demo.txt
 password.txt
+.venv/
+.pytest_cache/

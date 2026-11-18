@@ -8,3 +8,7 @@ Enter the first number, operator (+ - * /), then second number.
 The program prints Result: followed by the answer.
 
 Requires python 3 for run.sh
+
+## Test
+Run: ./check.sh
+The five test results should all be PASSED with an exit status of 0.
